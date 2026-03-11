@@ -8,3 +8,7 @@ A personal collection of study materials and resources.
 
 ## Usage
 Feel free to use this collection for your studies and add any additional resources you find useful.
+
+## Future Plans
+- Improve the organization of materials
+- Add more resources on advanced topics
